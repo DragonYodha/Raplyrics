@@ -8,7 +8,7 @@ import os
 os.environ['GOOGLE_API_KEY'] = ""
 
 # Streamlit App Title
-st.header("Rap Song Generator - SATVIK")
+st.header("Rap Song Generator - VK")
 st.subheader("Generate rap songs in the style of famous artists using Generative AI")
 
 # Create prompt template for generating rap songs
