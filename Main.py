@@ -4,7 +4,7 @@ from langchain import LLMChain
 import streamlit as st
 import os
 
-# Set your Google API key
+# Set your Google API key using Streamlit secrets
 os.environ['GOOGLE_API_KEY'] = st.secrets["GOOGLE_API_KEY"]
 
 # Streamlit App Title
