@@ -5,7 +5,7 @@ import streamlit as st
 import os
 
 # Set your Google API key
-os.environ['GOOGLE_API_KEY'] = "AIzaSyAG_3XuGE1Rq0Y6nk5kFdsTBqdOQxynjRI"
+os.environ['GOOGLE_API_KEY'] = ""
 
 # Streamlit App Title
 st.header("Rap Song Generator - SATVIK")
