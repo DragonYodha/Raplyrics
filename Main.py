@@ -1,9 +1,3 @@
-import subprocess
-import sys
-
-# Install required packages
-subprocess.check_call([sys.executable, "-m", "pip", "install", "langchain-google-genai==0.0.4"])
-subprocess.check_call([sys.executable, "-m", "pip", "install", "langchain==0.1.0"])
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain import PromptTemplate
 from langchain import LLMChain
