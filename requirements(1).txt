@@ -1,5 +1,4 @@
-langchain
-langchain-openai
-langchain_google_genai
-streamlit
-
+langchain==0.1.7 # Or the version you are using
+langchain_google_genai==0.0.12 # Or the version you are using
+streamlit==1.42.0 # Or the version you are using
+# ... any other dependencies
