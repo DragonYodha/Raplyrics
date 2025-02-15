@@ -1,2 +1,2 @@
-# Raplyrics
-App that generates Rap lyrics
+# myfirstaiapp
+An app that generates rap lyrics
